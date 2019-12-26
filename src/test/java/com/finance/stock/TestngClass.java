@@ -16,6 +16,8 @@ import java.util.concurrent.TimeUnit;
 
 public class TestngClass {
 
+    //add comments
+
     InfluxDbConfig influxDbConfig = new InfluxDbConfig();
     InfluxDbUtils influxDbUtils = new InfluxDbUtils("stock","123456","http://localhost:8086","stock","autogen");
 
